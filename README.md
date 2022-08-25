@@ -9,7 +9,7 @@ Jekyll source for blog.
 4. [Resources and Acknowledgements](#resources-and-acknowledgements)
 
 ## Description
-This repository contains Jekyll source for static blog, created from scratch without the built-in theme and dependencies from this [article](https://sayzlim.net/create-jekyll-site-beginners/). The Jekyll blog is deployed via GitHub Pages.
+This repository contains Jekyll source for static blog, created from scratch without the built-in theme and dependencies by following this [article](https://sayzlim.net/create-jekyll-site-beginners/). The Jekyll blog is deployed via GitHub Pages.
 
 ## Purpose
 The purpose of this repository is to store articles such as:
