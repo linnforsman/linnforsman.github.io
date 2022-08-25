@@ -2,7 +2,7 @@
 layout: post
 title: Visualizing most worked Programming Languages in 2020
 ---
-
+> [Read article on medium.com](https://linnforsman.medium.com/visualizing-most-worked-programming-languages-using-stack-overflow-2020-survey-data-71a09b1484d5)
 # {{ page.title }}
 
 ## Data Science / Data Visualization
